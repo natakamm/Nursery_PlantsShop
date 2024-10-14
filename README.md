@@ -20,3 +20,7 @@ The Bloom Haven Nursery website aims to provide a nurturing online environment w
 - [Tailwind CSS](https://tailwindcss.com/)
 - Figma (for wireframe design)
 - Git & GitHub (for version control and project management)
+
+## Collaborators:
+- [@shreyathummar71](https://github.com/shreyathummar71)
+- [@dhruvi683](https://github.com/dhruvi683)
