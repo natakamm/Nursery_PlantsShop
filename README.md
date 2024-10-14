@@ -1,6 +1,6 @@
 # Nursery PlantShop
 
-Welcome to **Nursery**, a responsive and visually appealing website developed using HTML and Tailwind CSS. This project was inspired by a Figma wireframe, and it showcases a mobile-first design approach to ensure a seamless experience across all devices. This is my first attempt using Tailwind framework and creating a responsive design.
+Welcome to **Nursery**, a responsive and visually appealing website developed using HTML and Tailwind CSS. This project was inspired by a Figma wireframe, and it showcases a mobile-first design approach to ensure a seamless experience across all devices. This is the first attempt using Tailwind framework and creating a responsive design.
 
 ## Project Overview
 
